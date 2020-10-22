@@ -802,7 +802,7 @@
 799	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@vu1990m#@vu1990m#1121.713#1121.961
 800	скоро	скоро	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1121.961#1122.209
 801	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1122.209#1122.457
-802	ии	ии	NOUN	_	Foreign=Yes	_	_	_	words@vu1990m#@vu1990m#1122.457#1122.705
+802	и	и	CCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#1122.457#1122.705
 803	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1122.705#1122.953
 804	с	с	ADP	_	_	_	_	_	words@vu1990m#@vu1990m#1122.953#1123.201
 805	Гражданской	гражданский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@vu1990m#@vu1990m#1123.201#1123.449
@@ -819,7 +819,7 @@
 816	еще	еще	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1125.929#1126.177
 817	кто-то	кто-то	PRON	_	Case=Nom	_	_	_	words@vu1990m#@vu1990m#1126.177#1126.425
 818	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1126.425#1126.673
-819	ии	ии	NOUN	_	Foreign=Yes	_	_	_	words@vu1990m#@vu1990m#1126.673#1126.921
+819	и	и	CCONJ	_	Foreign=Yes	_	_	_	words@vu1990m#@vu1990m#1126.673#1126.921
 820	//	//	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1126.921#1127.25
 821	кто	кто	PRON	_	Case=Nom	_	_	_	words@vu1990m#@vu1990m#1128.945#1129.166
 822	там	там	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1129.166#1129.387
@@ -1604,7 +1604,7 @@
 1601	вчера	вчера	ADV	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1356.975#1357.22
 1602	начался	начаться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@vu1990m#@vu1990m#1357.22#1357.465
 1603	//	//	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1357.465#1357.71
-1604	ии	ии	X	_	Foreign=Yes	_	_	_	words@vu1990m#@vu1990m#1357.71#1357.955
+1604	и	и	CCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#1357.71#1357.955
 1605	/	/	PUNCT	_	_	_	_	_	words@vu1990m#@vu1990m#1357.955#1358.2
 1606	и	и	CCONJ	_	_	_	_	_	words@vu1990m#@vu1990m#1358.2#1358.445
 1607	все...	все...	ADJ	_	Degree=Pos	_	_	_	words@vu1990m#@vu1990m#1358.445#1358.69
